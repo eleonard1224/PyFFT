@@ -1,6 +1,6 @@
 # PyFFT
 
-This repository contains Python code for a class-based implementation of the $O(N^{2})$ Discrete Fourier Transform as well as code which implements the $O(N \log{N})$ Cooley-Tukey Fast Fourier Transform algorithm given that the number of input samples is a power of two.
+This repository contains Python code for a class-based implementation of the $O(N^{2})$ Discrete Fourier Transform as well as code for the $O(N \log{N})$ Cooley-Tukey Fast Fourier Transform algorithm given that the number of input samples is a power of two - the FFT code is based on the implementation in *Numerical Recipes in C*.
 
 ## Environment Setup
 
