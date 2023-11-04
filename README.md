@@ -13,6 +13,9 @@ pip install -r requirements.txt
 
 ## Sample Results
 
+![signal](https://github.com/eleonard1224/PyFFT/assets/45740519/bc4e65ea-947b-4d3a-9cec-2d2e03fb2b4b) 
+![transform](https://github.com/eleonard1224/PyFFT/assets/45740519/4b194ddc-8e47-4ac1-85d5-c98c832c07e1)
+
 ## Timings
 
 | N        | DFT (sec) | FFT (sec) |
